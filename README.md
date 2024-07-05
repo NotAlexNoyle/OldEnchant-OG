@@ -1,7 +1,9 @@
-# zOldEnchant
+# OldEnchant-OG
 
-Allows to have the enchantments of the 1.7.10 in the recent versions of minecraft
+Allows servers to have the enchantments of the 1.7.10 in 1.19.4.
+
+Also mitigates the "too expensive" error in anvils.
 
 ![Gif of enchantment table](https://img.groupez.dev/zoldenchant/enchant.gif)
 
-No configuration, no command, just put the plugin and hop
+Licensed under MIT.
